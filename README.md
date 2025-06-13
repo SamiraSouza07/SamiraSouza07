@@ -1,6 +1,7 @@
 ## Ferramentas e Tecnologias
 
-<div style="displa:flex;flex-direction:row">            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" />
+<div style="display:flex;flex-direction:row">            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="30" height="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  width="30" height="30"/>
@@ -21,6 +22,6 @@
 
 <img src="https://raw.githubusercontent.com/SamiraSouza07/SamiraSouza07/output/snake.svg" alt="Snake animation" />
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=8655424281574363" height="520" width="236" frameborder="0" scrolling="no" ></iframe>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=8655424281574363" height="300" width="300" frameborder="0" scrolling="no" style="object-fit:contain"></iframe>
 
           
