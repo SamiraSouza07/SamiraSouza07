@@ -16,7 +16,9 @@
 <div>
   <a href="https://github.com/SamiraSouza07">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraSouza07&layout=compact&langs_count=7&theme=dracula"/>
-<img src="https://raw.githubusercontent.com/SamiraSouza07/SamiraSouza07/output/snake.svg" alt="Snake animation" />
+              
 </div>
+
+<img src="https://raw.githubusercontent.com/SamiraSouza07/SamiraSouza07/output/snake.svg" alt="Snake animation" />
 
           
