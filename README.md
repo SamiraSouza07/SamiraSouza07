@@ -23,6 +23,6 @@
 <img src="https://raw.githubusercontent.com/SamiraSouza07/SamiraSouza07/output/snake.svg" alt="Snake animation" />
 
 
-  <img src="https://i.pinimg.com/736x/99/f7/85/99f785ed4e02d2a56b8eee5e58a0476a.jpg" alt="gatinho" width="90%" style="margin:auto" />
+  <img src="https://i.pinimg.com/736x/99/f7/85/99f785ed4e02d2a56b8eee5e58a0476a.jpg" alt="gatinho" width="60%" style="margin:auto"  />
 
           
