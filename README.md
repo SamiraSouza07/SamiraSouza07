@@ -21,4 +21,6 @@
 
 <img src="https://raw.githubusercontent.com/SamiraSouza07/SamiraSouza07/output/snake.svg" alt="Snake animation" />
 
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=8655424281574363" height="520" width="236" frameborder="0" scrolling="no" ></iframe>
+
           
