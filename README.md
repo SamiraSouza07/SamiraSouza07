@@ -22,8 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/SamiraSouza07/SamiraSouza07/output/snake.svg" alt="Snake animation" />
 
-<a href="https://www.pinterest.com/pin/8655424281574363/" target="_blank">
-  <img src="https://i.pinimg.com/videos/thumbnails/originals/d0/40/19/d04019b3a99f3c43dabe21488b0d9929.0000000.jpg" alt="sapinho" width="300" />
-</a>
+
+  <img src="https://i.pinimg.com/736x/99/f7/85/99f785ed4e02d2a56b8eee5e58a0476a.jpg" alt="sapinho" width="300" />
 
           
